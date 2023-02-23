@@ -112,3 +112,5 @@ Stop-Ask-Questions-The-Stupid-Ways
 | 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
 
 ![googleit.png](/images/googleit.png)
+
+## 身边总是有人会向弱智一样提问，我该怎么办？
